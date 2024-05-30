@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsOYJLRvuS8bYLqIf/4kxm8+n1+Xf5NktiGBepBLJvnKOM9EaKq9mwz+byBYlNR6lhzlwvzgKqC5bZURfYV4sQ==",
+  "success": true,
+  "projectFilePath": "/home/broonoh/Workspace/ProjetoAPI/CookBook/src/Shared/MyRecipeBook.Exceptions/MyRecipeBook.Exceptions.csproj",
+  "expectedPackageFiles": [
+    "/home/broonoh/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
